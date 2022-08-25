@@ -21,7 +21,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-component-main-gNsv1e-eO_)
-- Live Site URL: [Live Site at Github](https://diegopereira0.github.io/profile-card-component-main/)
+- Live Site URL: [Live Site at Github](https://github.com/diegopereira0/3-column-preview-card-component)
 
 ## My process
 
